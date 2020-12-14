@@ -1,2 +1,10 @@
-# AlgorithmStudy
-코딩테스트 연습(프로그래머스, 리트코드...)
+LeetCode
+========
+
+### December 2020 Challenge 
+
+(Note: :lock: == Premium)
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) :lock: | [JAVA]() |Medium|
