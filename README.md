@@ -13,3 +13,4 @@ LeetCode
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [JAVA](./algorithms/java/910_Smallest_Range_II.java) |Medium|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [JAVA](./algorithms/java/556_Next_Greater_Element_III.java) |Medium|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [JAVA](./algorithms/java/594_Longest_Harmonious_Subsequence.java) |Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JAVA](./algorithms/java/242_Valid_Anagram.java) |Easy|
