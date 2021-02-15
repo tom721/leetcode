@@ -14,3 +14,4 @@ LeetCode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JAVA](./algorithms/java/242_Valid_Anagram.java) |Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [JAVA](./algorithms/java/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.java) |Easy|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [JAVA](./algorithms/java/1091_Shortest_Path_in_Binary_Matrix.java) |Medium|
+|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [JAVA](./algorithms/java/785_Is_Graph_Bipartite.java) |Medium|
