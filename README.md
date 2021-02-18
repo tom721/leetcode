@@ -18,3 +18,4 @@ LeetCode
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [JAVA](./algorithms/java/1337_The_K_Weakest_Rows_in_a_Matrix.java) |Easy|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [JAVA](./algorithms/java/784_Letter_Case_Permutation.java) |Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JAVA](./algorithms/java/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.java) |Medium|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [JAVA](./algorithms/java/413_Arithmetic_Slices.java) |Medium|
