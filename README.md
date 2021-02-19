@@ -19,3 +19,4 @@ LeetCode
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [JAVA](./algorithms/java/784_Letter_Case_Permutation.java) |Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JAVA](./algorithms/java/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.java) |Medium|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [JAVA](./algorithms/java/413_Arithmetic_Slices.java) |Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [JAVA](./algorithms/java/230_Kth_Smallest_Element_in_a_BST.java) |Medium|
