@@ -21,3 +21,4 @@ LeetCode
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [JAVA](./algorithms/java/413_Arithmetic_Slices.java) |Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [JAVA](./algorithms/java/230_Kth_Smallest_Element_in_a_BST.java) |Medium|
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [JAVA](./algorithms/java/1249_Minimum_Remove_to_Make_Valid_Parentheses.java) |Medium|
+|991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [JAVA](./algorithms/java/991_Broken_Calculator.java) |Medium|
