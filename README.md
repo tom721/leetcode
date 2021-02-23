@@ -23,3 +23,4 @@ LeetCode
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [JAVA](./algorithms/java/1249_Minimum_Remove_to_Make_Valid_Parentheses.java) |Medium|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [JAVA](./algorithms/java/991_Broken_Calculator.java) |Medium|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [JAVA](./algorithms/java/524_Longest_Word_in_Dictionary_through_Deleting.java) |Medium|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JAVA](./algorithms/java/240_Search_a_2D_Matrix_II.java) |Medium|
