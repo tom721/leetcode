@@ -24,3 +24,4 @@ LeetCode
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [JAVA](./algorithms/java/991_Broken_Calculator.java) |Medium|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [JAVA](./algorithms/java/524_Longest_Word_in_Dictionary_through_Deleting.java) |Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JAVA](./algorithms/java/240_Search_a_2D_Matrix_II.java) |Medium|
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | [JAVA](./algorithms/java/856_Score_of_Parentheses.java) |Medium|
