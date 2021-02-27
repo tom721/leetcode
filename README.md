@@ -26,3 +26,4 @@ LeetCode
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JAVA](./algorithms/java/240_Search_a_2D_Matrix_II.java) |Medium|
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | [JAVA](./algorithms/java/856_Score_of_Parentheses.java) |Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [JAVA](./algorithms/java/581_Shortest_Unsorted_Continuous_Subarray.java) |Medium|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [JAVA](./algorithms/java/946_Validate_Stack_Sequences.java) |Medium|
