@@ -27,3 +27,4 @@ LeetCode
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | [JAVA](./algorithms/java/856_Score_of_Parentheses.java) |Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [JAVA](./algorithms/java/581_Shortest_Unsorted_Continuous_Subarray.java) |Medium|
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [JAVA](./algorithms/java/946_Validate_Stack_Sequences.java) |Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [GO](./algorithms/go/19_Remove_Nth_Node_From_End_of_List.go) |Medium|
