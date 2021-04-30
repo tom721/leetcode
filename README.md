@@ -29,3 +29,4 @@ LeetCode
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [JAVA](./algorithms/java/946_Validate_Stack_Sequences.java) |Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [GO](./algorithms/go/19_Remove_Nth_Node_From_End_of_List.go) |Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [GO](./algorithms/go/63_Unique_Paths_II.go) |Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [GO](./algorithms/go/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.go) |Medium|
