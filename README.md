@@ -33,5 +33,6 @@ LeetCode
 |28|[Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [GO](./algorithms/go/970_Powerful_Integers.go) |Medium|
 |29|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [GO](./algorithms/go/1480_Running_Sum_of_1d_Array.go) |Easy|
 |30|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [GO](./algorithms/go/665_Non-decreasing_Array.go) |Medium|
+|31|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [GO](./algorithms/go/45_Jump_Game_II.go) |Medium|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
