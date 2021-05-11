@@ -34,5 +34,6 @@ LeetCode
 |29|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [GO](./algorithms/go/1480_Running_Sum_of_1d_Array.go) |Easy|
 |30|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [GO](./algorithms/go/665_Non-decreasing_Array.go) |Medium|
 |31|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [GO](./algorithms/go/45_Jump_Game_II.go) |Medium|
+|32|[Count Primes](https://leetcode.com/problems/count-primes/) | [GO](./algorithms/go/204_Count_Primes.go) |Easy|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
