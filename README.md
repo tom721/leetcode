@@ -36,5 +36,6 @@ LeetCode
 |31|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [GO](./algorithms/go/45_Jump_Game_II.go) |Medium|
 |32|[Count Primes](https://leetcode.com/problems/count-primes/) | [GO](./algorithms/go/204_Count_Primes.go) |Easy|
 |33|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [GO](./algorithms/go/462_Minimum_Moves_to_Equal_Array_Elements_II.go) |Medium|
+|34|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [GO](./algorithms/go/102_Binary_Tree_Level_Order_Traversal.go) |Medium|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
