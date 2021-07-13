@@ -38,5 +38,7 @@ LeetCode
 |33|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [GO](./algorithms/go/462_Minimum_Moves_to_Equal_Array_Elements_II.go) |Medium|
 |34|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [GO](./algorithms/go/102_Binary_Tree_Level_Order_Traversal.go) |Medium|
 |35|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [GO](./algorithms/go/125_Valid_Palindrome.go),[Python3](./algorithms/python/125_Valid_Palindrome.py) |Easy|
+|36|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python3](./algorithms/python/344_Reverse_String.py) |Easy|
+|37|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python3](./algorithms/python/937_Reorder_Data_in_Log_Files.py) |Easy|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
