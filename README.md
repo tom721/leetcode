@@ -40,5 +40,7 @@ LeetCode
 |35|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [GO](./algorithms/go/125_Valid_Palindrome.go),[Python3](./algorithms/python/125_Valid_Palindrome.py) |Easy|
 |36|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python3](./algorithms/python/344_Reverse_String.py) |Easy|
 |37|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python3](./algorithms/python/937_Reorder_Data_in_Log_Files.py) |Easy|
+|38|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python3](./algorithms/python/819_Most_Common_Word.py) |Easy|
+|39|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](./algorithms/python/49_Group_Anagrams.py) |Medium|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
