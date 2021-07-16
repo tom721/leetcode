@@ -42,5 +42,6 @@ LeetCode
 |37|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python3](./algorithms/python/937_Reorder_Data_in_Log_Files.py) |Easy|
 |38|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python3](./algorithms/python/819_Most_Common_Word.py) |Easy|
 |39|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](./algorithms/python/49_Group_Anagrams.py) |Medium|
+|40|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](./algorithms/python/5_Longest_Palindromic_Substring.py) |Medium|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
