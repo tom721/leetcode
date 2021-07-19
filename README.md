@@ -45,5 +45,6 @@ LeetCode
 |40|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](./algorithms/python/5_Longest_Palindromic_Substring.py) |Medium|
 |41|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./algorithms/python/1_Two_Sum.py) |Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python3](./algorithms/python/42_Trapping_Rain_Water.py) |Hard|
+|43|[3Sum](https://leetcode.com/problems/3sum/) | [Python3](./algorithms/python/15_3Sum.py) |Medium|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
