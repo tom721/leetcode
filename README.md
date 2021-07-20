@@ -47,5 +47,6 @@ LeetCode
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python3](./algorithms/python/42_Trapping_Rain_Water.py) |Hard|
 |43|[3Sum](https://leetcode.com/problems/3sum/) | [Python3](./algorithms/python/15_3Sum.py) |Medium|
 |44|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python3](./algorithms/python/561_Array_Partition_I.py) |Easy|
+|45|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python3](./algorithms/python/238_Product_of_Array_Except_Self.py) |Medium|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
