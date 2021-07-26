@@ -50,5 +50,6 @@ LeetCode
 |45|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python3](./algorithms/python/238_Product_of_Array_Except_Self.py) |Medium|
 |46|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./algorithms/python/121_Best_Time_to_Buy_and_Sell_Stock.py) |Easy|
 |47|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python3](./algorithms/python/234_Palindrome_Linked_List.py) |Easy|
+|48|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](./algorithms/python/21_Merge_Two_Sorted_Lists.py) |Easy|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
