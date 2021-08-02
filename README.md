@@ -53,5 +53,6 @@ LeetCode
 |48|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](./algorithms/python/21_Merge_Two_Sorted_Lists.py) |Easy|
 |49|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./algorithms/python/206_Reverse_Linked_List.py) |Easy|
 |50|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](./algorithms/python/2_Add_Two_Numbers.py) |Medium|
+|51|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python3](./algorithms/python/328_Odd_Even_Linked_List.py) |Medium|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
