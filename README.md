@@ -54,5 +54,6 @@ LeetCode
 |49|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./algorithms/python/206_Reverse_Linked_List.py) |Easy|
 |50|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](./algorithms/python/2_Add_Two_Numbers.py) |Medium|
 |51|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python3](./algorithms/python/328_Odd_Even_Linked_List.py) |Medium|
+|52|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./algorithms/python/20_Valid_Parentheses.py) |Easy|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
