@@ -55,5 +55,6 @@ LeetCode
 |50|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](./algorithms/python/2_Add_Two_Numbers.py) |Medium|
 |51|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python3](./algorithms/python/328_Odd_Even_Linked_List.py) |Medium|
 |52|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./algorithms/python/20_Valid_Parentheses.py) |Easy|
+|53|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python3](./algorithms/python/739_Daily_Temperatures.py) |Medium|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
