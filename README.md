@@ -56,5 +56,6 @@ LeetCode
 |51|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python3](./algorithms/python/328_Odd_Even_Linked_List.py) |Medium|
 |52|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./algorithms/python/20_Valid_Parentheses.py) |Easy|
 |53|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python3](./algorithms/python/739_Daily_Temperatures.py) |Medium|
+|54|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python3](./algorithms/python/225_Implement_Stack_using_Queues.py) |Easy|
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
