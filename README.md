@@ -59,5 +59,7 @@ LeetCode
 |54|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python3](./algorithms/python/225_Implement_Stack_using_Queues.py) |Easy|
 |55|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Python3](./algorithms/python/622_Design_Circular_Queue.py) |Medium|
 |56|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Python3](./algorithms/python/641_Design_Circular_Deque.py) |Medium|
+|57|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JAVA](./algorithms/java/22_Generate_Parentheses.java) |Medium|
+
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
