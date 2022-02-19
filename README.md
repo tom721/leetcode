@@ -61,6 +61,7 @@ LeetCode
 |56|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Python3](./algorithms/python/641_Design_Circular_Deque.py) |Medium|
 |57|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JAVA](./algorithms/java/22_Generate_Parentheses.java) |Medium|
 |58|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [JAVA](./algorithms/java/329_Longest_Increasing_Path_in_a_Matrix.java) |Hard|
+|59|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [JAVA](./algorithms/java/700_Search_in_a_Binary_Search_Tree.java) |Easy|
 
 
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
